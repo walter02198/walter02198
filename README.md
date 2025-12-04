@@ -1,7 +1,7 @@
 ### Hi, I'm Walter 👋💻👋
 
 <img width="3168" height="1344" alt="Image" src="https://github.com/user-attachments/assets/1f01067f-b841-4bc0-86d4-012e505e1b82" />
-```javascript
+```js
 const thai = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
