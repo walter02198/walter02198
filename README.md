@@ -1,11 +1,13 @@
 ### Hi, I'm Walter 👋💻👋
 
 <img width="3168" height="1344" alt="Image" src="https://github.com/user-attachments/assets/1f01067f-b841-4bc0-86d4-012e505e1b82" />
-<!--
-**walter02198/walter02198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+}
+```
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
