@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/eeb0764a-dd0f-4c92-872f-495ef3c4f043" />
+<img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/eeb0764a-dd0f-4c92-872f-495ef3c4f043" />
 <!--
 **walter02198/walter02198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
