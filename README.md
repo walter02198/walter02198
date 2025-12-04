@@ -2,12 +2,14 @@
 
 <img width="3168" height="1344" alt="Image" src="https://github.com/user-attachments/assets/1f01067f-b841-4bc0-86d4-012e505e1b82" />
 ```js
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+const walter02198 = {
+  pronouns: "he" | "him",
+  code: [Java, MySql, Spring Boot, Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
 }
 ```
+You can find me 🌎:
+- [Linkedin] (https://www.linkedin.com/in/walter-valverde-desarrollador/)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
