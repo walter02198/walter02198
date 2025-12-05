@@ -1,11 +1,7 @@
-### Hi, I'm Walter 👋💻👋
+
 
 <img width="3168" height="1344" alt="Image" src="https://github.com/user-attachments/assets/1f01067f-b841-4bc0-86d4-012e505e1b82" />
 
-<!-- Banner -->
-<p align="center">
-  <img src="TU_IMAGEN_AQUÍ" alt="Walter Valverde - Java Backend Developer" width="900">
-</p>
 
 # Hi, I'm Walter Valverde
 
@@ -35,8 +31,10 @@ const walter02198 = {
 ```
 
 ## 📫 You can find me at:
-- **[LinkedIn]** (https://www.linkedin.com/in/walter-valverde-desarrollador/)  
-- **[Email]** waltervalverdesalinas@gmail.com  
+- **[LinkedIn](https://www.linkedin.com/in/walter-valverde-desarrollador/)**
+
+- **[Email](waltervalverdesalinas@gmail.com)**  
+
 
 
 ---
@@ -45,7 +43,6 @@ const walter02198 = {
 Trabajo con disciplina, constancia y enfoque. Mi objetivo es crecer como Backend Developer y aportar soluciones simples, robustas y mantenibles en cada proyecto.
 
 ---
-[![walter02198's GitHub stats](https://github-readme-stats.vercel.app/api?username=walter02198)](https://github.com/anuraghazra/github-readme-stats)
 
   <!--
 - 🔭 I’m currently working on ...
