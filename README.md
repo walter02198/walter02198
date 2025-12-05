@@ -29,6 +29,47 @@ const walter02198 = {
 
 ---
 
+## 📌 Proyectos destacados
+
+
+### 🔹 ForoHub — API REST para foros
+
+**Tecnologías:** Java 17, Spring Boot, Spring Security, Hibernate, MySQL, JWT, Swagger, Flyway
+
+Desarrollo de un sistema completo de autenticación, CRUD y control de acceso.
+
+
+👉 Repositorio: *[ForoHub](https://github.com/walter02198/apiRestForoHubChallenge)*
+
+
+---
+
+
+### 🔹 Literalura — Buscador de libros
+
+**Tecnologías:** Java 17, Spring Boot, PostgreSQL, Hibernate
+
+Integración con la API Gutendex para almacenar y consultar libros.
+
+
+👉 Repositorio: *[(Literalura)](https://github.com/walter02198/version_final_challenge_Literalura)*
+
+
+---
+
+
+### 🔹 Conversor de Monedas
+
+**Tecnologías:** Java 17, GSON
+
+Conversor utilizando la API ExchangeRate.
+
+
+👉 Repositorio: *[(Conversor de Monedas)](https://github.com/walter02198/challenge-conversor-de-monedas-version2)*
+
+
+---
+
 ## 📫 You can find me at:
 - **[LinkedIn](https://www.linkedin.com/in/walter-valverde-desarrollador/)**
 - **Email:** waltervalverdesalinas@gmail.com  
