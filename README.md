@@ -33,7 +33,7 @@ const walter02198 = {
 ## 📫 You can find me at:
 - **[LinkedIn](https://www.linkedin.com/in/walter-valverde-desarrollador/)**
 
--**[Email](waltervalverdesalinas@gmail.com)**
+- **Email:** waltervalverdesalinas@gmail.com
 
  
 
