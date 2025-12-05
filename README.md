@@ -34,25 +34,6 @@ const walter02198 = {
 };
 ```
 
----
-
-## 🚀 What I'm working on
-- Construyendo proyectos backend con **Spring Boot** para fortalecer mi portafolio.  
-- Preparándome para entrevistas técnicas orientadas a **Java Backend Developer**.  
-- Aprendiendo patrones de diseño y arquitectura limpia.  
-- Repasando algoritmos, estructuras de datos y buenas prácticas de testing (JUnit + Mockito).
-
----
-
-## 📌 Featured Projects
-*(Estos nombres son ejemplos. Puedo ayudarte a crear los proyectos reales y su descripción si querés.)*
-
-- **HealthCare API** – Gestión de pacientes, médicos y turnos con Spring Boot + MySQL.  
-- **Expense Tracker API** – Control de gastos personales con autenticación JWT.  
-- **BookStore API** – CRUD completo con relaciones JPA y validación avanzada.
-
----
-
 ## 📫 You can find me at:
 - **[LinkedIn]** (https://www.linkedin.com/in/walter-valverde-desarrollador/)  
 - **[Email]** waltervalverdesalinas@gmail.com  
