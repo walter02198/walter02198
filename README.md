@@ -30,8 +30,8 @@ Soy desarrollador backend especializado en Java y Spring Boot. Vengo del mundo d
 ```ts
 const walter02198 = {
   pronouns: "he" | "him",
-  code: ["Java", "Spring Boot", "SQL", "JavaScript", "TypeScript", "HTML", "CSS"],
-  tools: ["Git", "Docker", "React", "Node.js", "Jest"],
+  code: ["Java", "Spring Boot", "SQL", "JavaScript", "HTML", "CSS"],
+  tools: ["Git", "GitHub", "Docker", "Maven", "Insomnia", "IntelliJ IDEA", "JUnit", "Mockito", "OpenAPI (Swagger)"],
 };
 ```
 
@@ -55,9 +55,9 @@ const walter02198 = {
 ---
 
 ## 📫 You can find me at:
-- **LinkedIn:** https://www.linkedin.com/in/walter02198  
-- **Email:** walter02198@gmail.com  
-- **GitHub:** ya estás aquí
+- **[LinkedIn]** (https://www.linkedin.com/in/walter-valverde-desarrollador/)  
+- **[Email]** waltervalverdesalinas@gmail.com  
+
 
 ---
 
