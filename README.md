@@ -1,7 +1,4 @@
-
-
 <img width="3168" height="1344" alt="Image" src="https://github.com/user-attachments/assets/1f01067f-b841-4bc0-86d4-012e505e1b82" />
-
 
 # Hi, I'm Walter Valverde
 
@@ -30,14 +27,11 @@ const walter02198 = {
 };
 ```
 
+---
+
 ## 📫 You can find me at:
 - **[LinkedIn](https://www.linkedin.com/in/walter-valverde-desarrollador/)**
-
-- **Email:** waltervalverdesalinas@gmail.com
-
- 
-
-
+- **[Email](mailto:waltervalverdesalinas@gmail.com)**  
 
 ---
 
