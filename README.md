@@ -52,7 +52,7 @@ Desarrollo de un sistema completo de autenticación, CRUD y control de acceso.
 Integración con la API Gutendex para almacenar y consultar libros.
 
 
-👉 Repositorio: *[(Literalura)](https://github.com/walter02198/version_final_challenge_Literalura)*
+👉 Repositorio: *[Literalura](https://github.com/walter02198/version_final_challenge_Literalura)*
 
 
 ---
@@ -65,7 +65,7 @@ Integración con la API Gutendex para almacenar y consultar libros.
 Conversor utilizando la API ExchangeRate.
 
 
-👉 Repositorio: *[(Conversor de Monedas)](https://github.com/walter02198/challenge-conversor-de-monedas-version2)*
+👉 Repositorio: *[Conversor de Monedas](https://github.com/walter02198/challenge-conversor-de-monedas-version2)*
 
 
 ---
