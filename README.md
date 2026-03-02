@@ -5,7 +5,7 @@
 ## Java Backend Developer  
 Electronics Engineer • Focused on Java Backend Development
 
-Soy desarrollador backend especializado en Java y Spring Boot. Vengo del mundo de la ingeniería electrónica, lo que me dio una base sólida en análisis, pensamiento estructurado y resolución de problemas. Hoy aplico esa mentalidad para construir APIs limpias, mantenibles y orientadas a buenas prácticas.
+Soy desarrollador backend especializado en Java y Spring Boot. Vengo del mundo de la ingeniería electrónica, lo que me dio una base sólida en análisis, pensamiento estructurado y resolución de problemas. Hoy aplico esa mentalidad para construir APIs limpias, mantenibles y orientadas a buenas prácticas y por ende un codigo limpio.
 
 ---
 
