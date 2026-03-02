@@ -77,7 +77,7 @@ Conversor utilizando la API ExchangeRate.
 ---
 
 ## ⚡ Personal Note
-Trabajo con disciplina, constancia y enfoque. Mi objetivo es crecer como Backend Developer y aportar soluciones simples, robustas y mantenibles en cada proyecto.
+Trabajo con disciplina, constancia y enfoque. Mi objetivo es crecer como Backend Developer y aportar soluciones simples, robustas y mantenibles en cada proyecto, intento estar actualizado todo el tiempo, manteniendo activa mi curiosidad.
 
 ---
 
