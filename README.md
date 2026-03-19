@@ -22,8 +22,9 @@ Soy desarrollador backend especializado en Java y Spring Boot. Vengo del mundo d
 
 ```ts
 const walter02198 = {
-  code: ["Java", "Spring Boot", "SQL", "JavaScript", "HTML", "CSS"],
-  tools: ["Git", "GitHub", "Docker", "Maven", "Insomnia", "IntelliJ IDEA", "JUnit", "Mockito", "OpenAPI (Swagger)"],
+  code: ["Java",Python, "SQL", "JavaScript", "HTML", "CSS", "Typescript", "Angular"],
+  tools: ["Git", "GitHub", "Docker", "Maven", "Insomnia", "IntelliJ IDEA", "JUnit",
+          "Mockito", "OpenAPI (Swagger)" , "Spring Boot"],
 };
 ```
 
