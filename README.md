@@ -42,6 +42,23 @@ Desarrollo de un sistema completo de autenticación, CRUD y control de acceso.
 
 👉 Repositorio: *[ForoHub](https://github.com/walter02198/apiRestForoHubChallenge)*
 
+---
+
+
+### 🔹 Voll Clinic API
+
+**Tecnologías:** Java 17
+Spring Boot 3.3.0
+Spring Data JPA (Hibernate)
+Spring Security con JWT
+MySQL (producción) / H2 (pruebas)
+Flyway (migraciones de base de datos)
+SpringDoc OpenAPI (documentación Swagger)
+Lombok
+Maven
+
+👉 Repositorio: *[Voll Clinic API]([https://github.com/walter02198/version_final_challenge_Literalura](https://github.com/walter02198/api---curso-documentar-api))*
+
 
 ---
 
@@ -51,7 +68,6 @@ Desarrollo de un sistema completo de autenticación, CRUD y control de acceso.
 **Tecnologías:** Java 17, Spring Boot, PostgreSQL, Hibernate
 
 Integración con la API Gutendex para almacenar y consultar libros.
-
 
 👉 Repositorio: *[Literalura](https://github.com/walter02198/version_final_challenge_Literalura)*
 
@@ -64,7 +80,6 @@ Integración con la API Gutendex para almacenar y consultar libros.
 **Tecnologías:** Java 17, GSON
 
 Conversor utilizando la API ExchangeRate.
-
 
 👉 Repositorio: *[Conversor de Monedas](https://github.com/walter02198/challenge-conversor-de-monedas-version2)*
 
