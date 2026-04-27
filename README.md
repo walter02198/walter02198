@@ -57,7 +57,7 @@ SpringDoc OpenAPI (documentación Swagger)
 Lombok
 Maven
 
-👉 Repositorio: *[Voll Clinic API]([https://github.com/walter02198/version_final_challenge_Literalura](https://github.com/walter02198/api---curso-documentar-api))*
+👉 Repositorio: *[Voll Clinic API](https://github.com/walter02198/api---curso-documentar-api)*
 
 
 ---
