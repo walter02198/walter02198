@@ -45,7 +45,7 @@ Desarrollo de un sistema completo de autenticación, CRUD y control de acceso.
 ---
 
 
-### 🔹 Voll Clinic API
+### 🔹 Voll Clinic API — API REST para la gestión de consultas médicas de la clínica Voll
 
 **Tecnologías:** Java 17
 Spring Boot 3.3.0
