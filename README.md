@@ -32,6 +32,22 @@ const walter02198 = {
 
 ## 📌 Proyectos destacados
 
+### 🔹 Cieloscopio — Consulta de Climas en Tiempo Real
+
+**Tecnologías:** Java 17+ (Uso de Records para inmutabilidad).
+
+GSON: Para la deserialización de JSON a objetos Java.
+
+HttpClient: Para peticiones asíncronas a la API de OpenWeather.
+
+SOLID: Aplicación de principios de diseño orientado a objetos.
+
+Integración con la API Openweathermap para consulta en tiempo real.
+
+
+👉 Repositorio: *[Cieloscopio](https://github.com/walter02198/Cieloscopio)*
+
+---
 
 ### 🔹 ForoHub — API REST para foros
 
