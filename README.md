@@ -34,16 +34,9 @@ const walter02198 = {
 
 ### 🔹 Cieloscopio — Consulta de Climas en Tiempo Real
 
-**Tecnologías:** Java 17+ (Uso de Records para inmutabilidad).
-
-GSON: Para la deserialización de JSON a objetos Java.
-
-HttpClient: Para peticiones asíncronas a la API de OpenWeather.
-
-SOLID: Aplicación de principios de diseño orientado a objetos.
+**Tecnologías:** Java 17+, GSON, HttpClient, SOLID y buenas practicas.
 
 Integración con la API Openweathermap para consulta en tiempo real.
-
 
 👉 Repositorio: *[Cieloscopio](https://github.com/walter02198/Cieloscopio)*
 
@@ -54,7 +47,6 @@ Integración con la API Openweathermap para consulta en tiempo real.
 **Tecnologías:** Java 17, Spring Boot, Spring Security, Hibernate, MySQL, JWT, Swagger, Flyway
 
 Desarrollo de un sistema completo de autenticación, CRUD y control de acceso.
-
 
 👉 Repositorio: *[ForoHub](https://github.com/walter02198/apiRestForoHubChallenge)*
 
